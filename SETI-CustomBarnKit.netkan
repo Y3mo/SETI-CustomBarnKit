@@ -11,6 +11,7 @@
     "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
   },
   "depends"       : [
+    { "name"      : "ModuleManager" },
     { "name"      : "CustomBarnKit" }
   ],
   "install"       : [

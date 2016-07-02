@@ -2,7 +2,7 @@
   "$kref"         : "#/ckan/github/Y3mo/SETI-CustomBarnKit",
   "$vref"         : "#/ckan/ksp-avc",
   "spec_version"  : 1,
-  "name"          : "CustomBarnKit - SETI Config",
+  "name"          : "SETI-CustomBarnKit-Config",
   "identifier"    : "SETI-CustomBarnKit",
   "abstract"      : "This is a SETI config for CustomBarnKit, increasing the number of building upgrade levels and tweaking unlocks (eg action groups available from the start)",
   "license"       : "MIT",
